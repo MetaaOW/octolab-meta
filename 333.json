@@ -1,0 +1,35 @@
+{
+  "dna": "02f984eec52f18fe12894805d8faef563c6a8376",
+  "name": "OctoLab #333",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/333.png",
+  "edition": 333,
+  "date": 1655630691743,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hollow"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

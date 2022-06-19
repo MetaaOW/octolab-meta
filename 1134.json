@@ -1,0 +1,35 @@
+{
+  "dna": "433da45f685d5f6249be40344a8630f08ffffe71",
+  "name": "OctoLab #1134",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1134.png",
+  "edition": 1134,
+  "date": 1655630511692,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

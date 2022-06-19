@@ -1,0 +1,35 @@
+{
+  "dna": "021594c87ffcf161d28406921e0c942c40aaf4f1",
+  "name": "OctoLab #2693",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2693.png",
+  "edition": 2693,
+  "date": 1655630165868,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Crown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

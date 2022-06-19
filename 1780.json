@@ -1,0 +1,35 @@
+{
+  "dna": "999f6e28010f9fcb1d22cc0bad28b0d1f1c29fd6",
+  "name": "OctoLab #1780",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1780.png",
+  "edition": 1780,
+  "date": 1655630302313,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Champions"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

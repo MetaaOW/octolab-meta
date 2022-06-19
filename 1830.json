@@ -1,0 +1,35 @@
+{
+  "dna": "9afa1f717d01bef7d1de325c1fadda096eed5792",
+  "name": "OctoLab #1830",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1830.png",
+  "edition": 1830,
+  "date": 1655630508102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditational"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

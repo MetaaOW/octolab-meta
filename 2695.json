@@ -1,0 +1,35 @@
+{
+  "dna": "bbb14b3691304968d2cb9eccca7783c7d19b667b",
+  "name": "OctoLab #2695",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2695.png",
+  "edition": 2695,
+  "date": 1655630561063,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Seaman"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Joy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

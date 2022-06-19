@@ -1,0 +1,35 @@
+{
+  "dna": "625bbd6a45fa14aa3a70ed00d77f6078f5f826d5",
+  "name": "OctoLab #2111",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2111.png",
+  "edition": 2111,
+  "date": 1655630196607,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Octopuses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SaltWater"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

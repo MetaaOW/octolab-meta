@@ -1,0 +1,35 @@
+{
+  "dna": "41fdb9d78efc44b077a1dfc4827e034ff3597f03",
+  "name": "OctoLab #2795",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2795.png",
+  "edition": 2795,
+  "date": 1655630170869,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BlueLipstick"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vegas"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

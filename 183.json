@@ -1,0 +1,35 @@
+{
+  "dna": "e42a0f0dd13e2f1a9a068c4648e4d87669a91fbc",
+  "name": "OctoLab #183",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/183.png",
+  "edition": 183,
+  "date": 1655630704137,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cabaret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "04d7517bb9c45d4f108110a813f2ba2b5c61fb96",
+  "name": "OctoLab #142",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/142.png",
+  "edition": 142,
+  "date": 1655630252641,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Love"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

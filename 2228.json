@@ -1,0 +1,35 @@
+{
+  "dna": "e720627754a55356a2cc3fd3185d6c574c1b822d",
+  "name": "OctoLab #2228",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2228.png",
+  "edition": 2228,
+  "date": 1655630574715,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Anime"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ChicEyelashes"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

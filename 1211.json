@@ -1,0 +1,35 @@
+{
+  "dna": "4f3127050125ce6aa65e2ad28081fb5ac20ad66b",
+  "name": "OctoLab #1211",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1211.png",
+  "edition": 1211,
+  "date": 1655630227303,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

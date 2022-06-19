@@ -1,0 +1,35 @@
+{
+  "dna": "986d6b7c320e2168a7419ae95509690a82a73fc5",
+  "name": "OctoLab #1261",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1261.png",
+  "edition": 1261,
+  "date": 1655630578094,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "c697386b1dd0eb7edad7178dcfe13011dfa20251",
+  "name": "OctoLab #1264",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1264.png",
+  "edition": 1264,
+  "date": 1655630549645,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gentleman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vegas"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

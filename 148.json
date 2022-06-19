@@ -1,0 +1,35 @@
+{
+  "dna": "06f78120f24bb8f80b5e0de57f181194930b53ed",
+  "name": "OctoLab #148",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/148.png",
+  "edition": 148,
+  "date": 1655630584559,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BubbleGum"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Surprised"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

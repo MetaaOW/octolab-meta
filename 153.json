@@ -1,0 +1,35 @@
+{
+  "dna": "8d9e87def5ddc62c694b2519a9d489620287f248",
+  "name": "OctoLab #153",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/153.png",
+  "edition": 153,
+  "date": 1655630680507,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hollow"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

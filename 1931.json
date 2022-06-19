@@ -1,0 +1,35 @@
+{
+  "dna": "55bbdd2fe6e7a5ff5308dfe6d8aab40255d1aec2",
+  "name": "OctoLab #1931",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1931.png",
+  "edition": 1931,
+  "date": 1655630535689,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "4d9152c1c0df5a4c77749859eaa1bf2c8043a352",
+  "name": "OctoLab #2366",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2366.png",
+  "edition": 2366,
+  "date": 1655630228519,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Orc"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WoodOwl"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

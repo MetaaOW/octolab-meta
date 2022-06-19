@@ -1,0 +1,15 @@
+{
+  "dna": "79e5826060232adf1c3fee833076a1f73b9bf659",
+  "name": "OctoLab #95",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/95.png",
+  "edition": 95,
+  "date": 1655630082403,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Mime"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

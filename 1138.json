@@ -1,0 +1,35 @@
+{
+  "dna": "0f40f6bc65621f39aec9f5edd42f455376630df9",
+  "name": "OctoLab #1138",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1138.png",
+  "edition": 1138,
+  "date": 1655630670107,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NiceWig"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Miami"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

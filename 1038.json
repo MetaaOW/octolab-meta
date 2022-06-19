@@ -1,0 +1,35 @@
+{
+  "dna": "6cd3fd0bdf98088d79f374d4e2f6687555a27f85",
+  "name": "OctoLab #1038",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1038.png",
+  "edition": 1038,
+  "date": 1655630313187,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LaceNightie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WoodOwl"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

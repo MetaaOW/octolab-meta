@@ -1,0 +1,35 @@
+{
+  "dna": "62528476f5efce46085ac74a2192c0799f19ca79",
+  "name": "OctoLab #1140",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1140.png",
+  "edition": 1140,
+  "date": 1655630322086,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

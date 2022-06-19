@@ -1,0 +1,35 @@
+{
+  "dna": "bdf1bdd4fc906abf617e0c24457d1b97e6be59f9",
+  "name": "OctoLab #2819",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2819.png",
+  "edition": 2819,
+  "date": 1655630224236,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swirl"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Miami"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

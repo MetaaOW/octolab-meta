@@ -1,0 +1,35 @@
+{
+  "dna": "06333dbb3155385e8eba201d4774f6b92c0a9678",
+  "name": "OctoLab #511",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/511.png",
+  "edition": 511,
+  "date": 1655630606893,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fatigue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

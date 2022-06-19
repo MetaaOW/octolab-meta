@@ -1,0 +1,35 @@
+{
+  "dna": "bdaecd24934c5160db7a72937ead68cd91a5eae6",
+  "name": "OctoLab #1893",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1893.png",
+  "edition": 1893,
+  "date": 1655630266418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OctoHero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

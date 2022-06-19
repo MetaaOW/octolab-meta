@@ -1,0 +1,35 @@
+{
+  "dna": "8e9da4cdf21c24ddb71d411786602e3f34198f77",
+  "name": "OctoLab #24",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/24.png",
+  "edition": 24,
+  "date": 1655630702209,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Stylist"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

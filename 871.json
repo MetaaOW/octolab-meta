@@ -1,0 +1,35 @@
+{
+  "dna": "0f9389a6d53ffda33907709da7c438547d32df6d",
+  "name": "OctoLab #871",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/871.png",
+  "edition": 871,
+  "date": 1655630092420,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditational"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "6738224d99fa2da4480876f3e0b95bae4d23dc2f",
+  "name": "OctoLab #1723",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1723.png",
+  "edition": 1723,
+  "date": 1655630701004,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bite"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

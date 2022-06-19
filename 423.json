@@ -1,0 +1,15 @@
+{
+  "dna": "7c7b3cd997ed97ee07e674c1bfa373f0e112200a",
+  "name": "OctoLab #423",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/423.png",
+  "edition": 423,
+  "date": 1655630081335,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Devil"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

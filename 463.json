@@ -1,0 +1,35 @@
+{
+  "dna": "c33e5c14681a175d3d6015e26dcd7dd95da43c40",
+  "name": "OctoLab #463",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/463.png",
+  "edition": 463,
+  "date": 1655630486102,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Champions"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ChicEyelashes"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

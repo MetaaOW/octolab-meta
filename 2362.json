@@ -1,0 +1,35 @@
+{
+  "dna": "76063ba8ca58390360d985143382b8fc665768d9",
+  "name": "OctoLab #2362",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2362.png",
+  "edition": 2362,
+  "date": 1655630474952,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SaltWater"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

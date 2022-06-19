@@ -1,0 +1,35 @@
+{
+  "dna": "5e8905203fe4a17cb97b35c14182998dd3ec1b6b",
+  "name": "OctoLab #1962",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1962.png",
+  "edition": 1962,
+  "date": 1655630494997,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloudlet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dancer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

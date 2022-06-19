@@ -1,0 +1,15 @@
+{
+  "dna": "590870f84c1636209b225ecb631ee9b3ba120de9",
+  "name": "OctoLab #387",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/387.png",
+  "edition": 387,
+  "date": 1655630083920,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Meow"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "060275374b7d168cfceb6d8eecb8ee6ca9ee2b07",
+  "name": "OctoLab #2774",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2774.png",
+  "edition": 2774,
+  "date": 1655630709738,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Alien"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BeautiLips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

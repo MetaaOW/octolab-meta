@@ -1,0 +1,35 @@
+{
+  "dna": "fd37a1f5b282ed63a3ae230e4834eaa40c779414",
+  "name": "OctoLab #2566",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2566.png",
+  "edition": 2566,
+  "date": 1655630252046,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Stylist"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

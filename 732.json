@@ -1,0 +1,35 @@
+{
+  "dna": "abab10561d38642e787c5da447401f59bd78d134",
+  "name": "OctoLab #732",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/732.png",
+  "edition": 732,
+  "date": 1655630555697,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OctoHero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vegas"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

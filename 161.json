@@ -1,0 +1,35 @@
+{
+  "dna": "6f9c3bb19e5347bb237ecd73e30d013cc53d3305",
+  "name": "OctoLab #161",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/161.png",
+  "edition": 161,
+  "date": 1655630631041,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cheesy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Poison"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Stylist"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dancer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

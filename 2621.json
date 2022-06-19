@@ -1,0 +1,35 @@
+{
+  "dna": "b88be64bcdd70e8bfa34c8bc4b9e6e0a43c08516",
+  "name": "OctoLab #2621",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2621.png",
+  "edition": 2621,
+  "date": 1655630501797,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Frog"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BeautiLips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Stylist"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

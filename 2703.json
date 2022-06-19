@@ -1,0 +1,35 @@
+{
+  "dna": "5179e9605b014e71117409dc3930ba7328f34d27",
+  "name": "OctoLab #2703",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2703.png",
+  "edition": 2703,
+  "date": 1655630441177,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cabaret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BeautiLips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Joy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

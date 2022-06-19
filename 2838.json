@@ -1,0 +1,35 @@
+{
+  "dna": "fb2ab045263dfd05562e4c0ef2523a49c058e3f7",
+  "name": "OctoLab #2838",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2838.png",
+  "edition": 2838,
+  "date": 1655630260174,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pride"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buccaneer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

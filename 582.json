@@ -1,0 +1,35 @@
+{
+  "dna": "52a1a4cd74b534e9f8ce2a71424d642a428dcc64",
+  "name": "OctoLab #582",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/582.png",
+  "edition": 582,
+  "date": 1655630325233,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LaceNightie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BabyHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

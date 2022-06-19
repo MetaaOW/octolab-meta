@@ -1,0 +1,35 @@
+{
+  "dna": "b7ce0716adbd0dbce5d1891f51ef3418995626a6",
+  "name": "OctoLab #2395",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2395.png",
+  "edition": 2395,
+  "date": 1655630674437,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sky"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditational"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

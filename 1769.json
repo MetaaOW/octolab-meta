@@ -1,0 +1,35 @@
+{
+  "dna": "fc87d58eb5b27a782c1f511eb62720efcaacd096",
+  "name": "OctoLab #1769",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1769.png",
+  "edition": 1769,
+  "date": 1655630678580,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swirl"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloudlet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "EgaoHelmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clon"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

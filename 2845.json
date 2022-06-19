@@ -1,0 +1,35 @@
+{
+  "dna": "18e8195a61dc53e5ffad7ae2e3dcc3f170285a4d",
+  "name": "OctoLab #2845",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2845.png",
+  "edition": 2845,
+  "date": 1655630407168,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bite"
+    },
+    {
+      "trait_type": "Head",
+      "value": "EgaoHelmet"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

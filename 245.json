@@ -1,0 +1,35 @@
+{
+  "dna": "426cf18b7570d77c5575ec30b4903155a1ec2f51",
+  "name": "OctoLab #245",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/245.png",
+  "edition": 245,
+  "date": 1655630105334,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cabaret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BubbleGum"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SaltWater"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "faae2765a07b5d7b51bd962ca08019946b2d2c32",
+  "name": "OctoLab #541",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/541.png",
+  "edition": 541,
+  "date": 1655630376480,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gentleman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Love"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

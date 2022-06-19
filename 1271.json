@@ -1,0 +1,35 @@
+{
+  "dna": "8e1eff055e520c28ce4d1abba5e23391c3db627a",
+  "name": "OctoLab #1271",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1271.png",
+  "edition": 1271,
+  "date": 1655630319183,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Seaman"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bite"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Vegas"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

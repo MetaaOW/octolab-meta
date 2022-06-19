@@ -1,0 +1,35 @@
+{
+  "dna": "02a44e4a6754734e3d152739c7376726cdf98a15",
+  "name": "OctoLab #403",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/403.png",
+  "edition": 403,
+  "date": 1655630392984,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bandit"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mask"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

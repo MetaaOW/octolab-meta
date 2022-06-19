@@ -1,0 +1,35 @@
+{
+  "dna": "f16b9621f1ce92e0a3170d11b713bfffbc4d7ae2",
+  "name": "OctoLab #1797",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1797.png",
+  "edition": 1797,
+  "date": 1655630109060,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TrendyCircles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Bite"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clon"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

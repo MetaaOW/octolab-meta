@@ -1,0 +1,35 @@
+{
+  "dna": "54778d588bc611a82450d2640e64be36782cde60",
+  "name": "OctoLab #514",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/514.png",
+  "edition": 514,
+  "date": 1655630247092,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "ChicEyelashes"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

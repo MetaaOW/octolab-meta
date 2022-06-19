@@ -1,0 +1,35 @@
+{
+  "dna": "40ea514dd60c97476367fb76b17385ebf8eadf61",
+  "name": "OctoLab #675",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/675.png",
+  "edition": 675,
+  "date": 1655630479139,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cloud"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OctoHero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sadness"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BabyHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

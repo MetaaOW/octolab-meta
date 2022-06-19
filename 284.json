@@ -1,0 +1,35 @@
+{
+  "dna": "df1577dc15c3ef5b65e86bf9618df3289ad85ed8",
+  "name": "OctoLab #284",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/284.png",
+  "edition": 284,
+  "date": 1655630524653,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trendy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hollow"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

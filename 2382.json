@@ -1,0 +1,35 @@
+{
+  "dna": "214cf3b5a53aa4370149d312f6cc63479ff33005",
+  "name": "OctoLab #2382",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2382.png",
+  "edition": 2382,
+  "date": 1655630288272,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Miami"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

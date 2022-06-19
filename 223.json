@@ -1,0 +1,35 @@
+{
+  "dna": "b07a5e59009b38335b58e1438615de11a6b0ad7e",
+  "name": "OctoLab #223",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/223.png",
+  "edition": 223,
+  "date": 1655630217556,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "WhiteShirt"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Fatigue"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Love"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

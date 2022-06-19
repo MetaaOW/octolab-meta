@@ -1,0 +1,35 @@
+{
+  "dna": "dacced6d84a3f104d4fac4d810b9dff990a50a83",
+  "name": "OctoLab #1286",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1286.png",
+  "edition": 1286,
+  "date": 1655630474053,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Skull"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nervous"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

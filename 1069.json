@@ -1,0 +1,35 @@
+{
+  "dna": "77bfcc7182cf24cdfe729a95d3d00e3c5dd21242",
+  "name": "OctoLab #1069",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1069.png",
+  "edition": 1069,
+  "date": 1655630593920,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cheesy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditational"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "f2debc5cc4dd8b1994f9f1a80cc25d34a20b21fa",
+  "name": "OctoLab #1136",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1136.png",
+  "edition": 1136,
+  "date": 1655630345956,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WoodOwl"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "7dc83bb9fedd6d852e12061aef9b252398cac8e1",
+  "name": "OctoLab #2576",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2576.png",
+  "edition": 2576,
+  "date": 1655630103074,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Hollow"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

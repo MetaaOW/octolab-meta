@@ -1,0 +1,15 @@
+{
+  "dna": "bd7d71e7ab92fc863e14f7e897cb7649c69f1cea",
+  "name": "OctoLab #2263",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2263.png",
+  "edition": 2263,
+  "date": 1655630080561,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Angel"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

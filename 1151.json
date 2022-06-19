@@ -1,0 +1,35 @@
+{
+  "dna": "13da0110035ae712f65b22e9c39218a7ae450867",
+  "name": "OctoLab #1151",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1151.png",
+  "edition": 1151,
+  "date": 1655630147408,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "SaltWater"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "dna": "461ec7f0f37ee081e83f03368944d065b232aea4",
+  "name": "OctoLab #966",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/966.png",
+  "edition": 966,
+  "date": 1655630081681,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Zombie"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

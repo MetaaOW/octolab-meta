@@ -1,0 +1,35 @@
+{
+  "dna": "a4a3ba6d652775edfebf4b9b0e2dfc05728cceb5",
+  "name": "OctoLab #2102",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2102.png",
+  "edition": 2102,
+  "date": 1655630638806,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "LaceNightie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

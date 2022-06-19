@@ -1,0 +1,35 @@
+{
+  "dna": "240f07b5f44ce6025b2f98173206d0dbacf870df",
+  "name": "OctoLab #2098",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2098.png",
+  "edition": 2098,
+  "date": 1655630245430,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Holder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BeautiLips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "AutumnHat"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Meditational"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

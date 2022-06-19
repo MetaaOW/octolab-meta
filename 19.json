@@ -1,0 +1,35 @@
+{
+  "dna": "eeb35307e1147d88d1be80abbfd4ba8a4d9fd10d",
+  "name": "OctoLab #19",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/19.png",
+  "edition": 19,
+  "date": 1655630208418,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

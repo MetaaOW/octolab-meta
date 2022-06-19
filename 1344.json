@@ -1,0 +1,15 @@
+{
+  "dna": "d5f3633b87b0635b3fa442840f4f121401b5da49",
+  "name": "OctoLab #1344",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1344.png",
+  "edition": 1344,
+  "date": 1655630085197,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "RandoMice"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

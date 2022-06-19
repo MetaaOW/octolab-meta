@@ -1,0 +1,35 @@
+{
+  "dna": "7c2bde47ac8984a0c6c2b20772871beb738eff5b",
+  "name": "OctoLab #119",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/119.png",
+  "edition": 119,
+  "date": 1655630496081,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Tattoo"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "WoodOwl"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

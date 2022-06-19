@@ -1,0 +1,35 @@
+{
+  "dna": "695028ec49e77327f75aa15c4857308aa5613aad",
+  "name": "OctoLab #1608",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1608.png",
+  "edition": 1608,
+  "date": 1655630534866,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ocean"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BeautiLips"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gentleman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Clon"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

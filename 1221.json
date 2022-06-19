@@ -1,0 +1,35 @@
+{
+  "dna": "96b26913046bdea08e20f18a3c979a964cd685e8",
+  "name": "OctoLab #1221",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1221.png",
+  "edition": 1221,
+  "date": 1655630095347,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cheesy"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BabyNipple"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "DevilPossession"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "f6907bb04065448a39ddd38acff64987047f9e3b",
+  "name": "OctoLab #1482",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1482.png",
+  "edition": 1482,
+  "date": 1655630475990,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Retro"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nervous"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

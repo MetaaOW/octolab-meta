@@ -1,0 +1,35 @@
+{
+  "dna": "b657048d2aaaba0325cb0649039bc45c6f7b204a",
+  "name": "OctoLab #754",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/754.png",
+  "edition": 754,
+  "date": 1655630563636,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Pixel"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "b862357ed4bbc9555c5c1df2370eba2248d4ab81",
+  "name": "OctoLab #1111",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1111.png",
+  "edition": 1111,
+  "date": 1655630331863,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Gentleman"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

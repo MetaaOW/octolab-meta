@@ -1,0 +1,35 @@
+{
+  "dna": "b0e8040c2c7d148362cf3ad2e535b730265f80ae",
+  "name": "OctoLab #1279",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1279.png",
+  "edition": 1279,
+  "date": 1655630534447,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Holder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "20k"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Buccaneer"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bruise"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "3a4f8ba5aa2169f0d563bd7bf3574a16190c99b4",
+  "name": "OctoLab #1262",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1262.png",
+  "edition": 1262,
+  "date": 1655630257707,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Joy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

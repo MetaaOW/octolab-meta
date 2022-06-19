@@ -1,0 +1,35 @@
+{
+  "dna": "d3e1c3ecae35e4e5374895af772b7904809ff4cc",
+  "name": "OctoLab #1738",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1738.png",
+  "edition": 1738,
+  "date": 1655630542763,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

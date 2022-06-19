@@ -1,0 +1,35 @@
+{
+  "dna": "1d5eeef63371ab31ad0d9e6f07a284201a7efd16",
+  "name": "OctoLab #1259",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1259.png",
+  "edition": 1259,
+  "date": 1655630553167,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cloudlet"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

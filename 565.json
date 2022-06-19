@@ -1,0 +1,35 @@
+{
+  "dna": "162f2c091283c26512c30c4f67aa06ed1e1dcc3d",
+  "name": "OctoLab #565",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/565.png",
+  "edition": 565,
+  "date": 1655630309842,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "OctoHero"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Shock"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dancer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

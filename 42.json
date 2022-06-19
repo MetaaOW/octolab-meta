@@ -1,0 +1,35 @@
+{
+  "dna": "d888e3931f99940933eab40bd7881059a814c63d",
+  "name": "OctoLab #42",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/42.png",
+  "edition": 42,
+  "date": 1655630505585,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Cabaret"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trendy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Joy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

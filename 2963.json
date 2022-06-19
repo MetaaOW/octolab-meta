@@ -1,0 +1,35 @@
+{
+  "dna": "b8e8a2ba3e9fb3fbad2d5ee25765c334c08ac17f",
+  "name": "OctoLab #2963",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2963.png",
+  "edition": 2963,
+  "date": 1655630293720,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Art"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "BDSM"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Nervous"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "61549927cbb23db2ecf6dcda0551976f194397de",
+  "name": "OctoLab #2055",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2055.png",
+  "edition": 2055,
+  "date": 1655630113867,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "TrendyCircles"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Octopus"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

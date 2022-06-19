@@ -1,0 +1,35 @@
+{
+  "dna": "32c9399d3251e58cc4f894fcd537ec136dfe1cd2",
+  "name": "OctoLab #182",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/182.png",
+  "edition": 182,
+  "date": 1655630233150,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Galactus"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Crocodile"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BubbleGum"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Graduate"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Crazy"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

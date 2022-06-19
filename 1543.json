@@ -1,0 +1,15 @@
+{
+  "dna": "dd872e6c7cca9360504dadbcff4a67858c7ea352",
+  "name": "OctoLab #1543",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1543.png",
+  "edition": 1543,
+  "date": 1655630084874,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Retrofuturism"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

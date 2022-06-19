@@ -1,0 +1,15 @@
+{
+  "dna": "1d37d4a7d5b489baf148e6b222ce60e0fb684024",
+  "name": "OctoLab #2697",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2697.png",
+  "edition": 2697,
+  "date": 1655630080381,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Hunter"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

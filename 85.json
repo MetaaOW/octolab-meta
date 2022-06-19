@@ -1,0 +1,35 @@
+{
+  "dna": "320187947ed797da61155a7fe75c8a93bd8fa2fe",
+  "name": "OctoLab #85",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/85.png",
+  "edition": 85,
+  "date": 1655630683940,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Snow"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "SurfaceDweller"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

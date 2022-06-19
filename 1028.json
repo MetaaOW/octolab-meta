@@ -1,0 +1,35 @@
+{
+  "dna": "9ffbfbdbd5f67f257e9b319fc32e8ba84d20ddfb",
+  "name": "OctoLab #1028",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1028.png",
+  "edition": 1028,
+  "date": 1655630153732,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Swirl"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Carnival"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Head",
+      "value": "NiceWig"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "VR"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

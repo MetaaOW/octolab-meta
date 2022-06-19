@@ -1,0 +1,35 @@
+{
+  "dna": "ca64a7b5af2bc7fce44bc1af8c835fa1bedca974",
+  "name": "OctoLab #1616",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1616.png",
+  "edition": 1616,
+  "date": 1655630304521,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Cartoon"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Octopuses"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cat"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Mohawk"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fashion"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "dna": "d5ebe0b9ff72be43bf542d11a33ea366d9d257cd",
+  "name": "OctoLab #1817",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1817.png",
+  "edition": 1817,
+  "date": 1655630086872,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Cutie"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "2011a82286431878196eb2b7eba3b4de9384137b",
+  "name": "OctoLab #2320",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2320.png",
+  "edition": 2320,
+  "date": 1655630131677,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "Underwater"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Demonic"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Trendy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cookies"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

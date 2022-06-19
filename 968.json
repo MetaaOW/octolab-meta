@@ -1,0 +1,15 @@
+{
+  "dna": "6b56111279efafd1828423c07bb061e83902a0cc",
+  "name": "OctoLab #968",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/968.png",
+  "edition": 968,
+  "date": 1655630081095,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Punk"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "e27467c1015d6bf54eccc4247a50532330c56238",
+  "name": "OctoLab #576",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/576.png",
+  "edition": 576,
+  "date": 1655630571419,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Classic"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Pride"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Redneck"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dancer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

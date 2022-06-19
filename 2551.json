@@ -1,0 +1,35 @@
+{
+  "dna": "033ab7d9afd129d4ef5390898d364d4439b9c954",
+  "name": "OctoLab #2551",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2551.png",
+  "edition": 2551,
+  "date": 1655630152203,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Splash"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Naked"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sniffle"
+    },
+    {
+      "trait_type": "Head",
+      "value": "FellowKid"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Dancer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,35 @@
+{
+  "dna": "c77de08c55a735c6dbbf736f1d3c4e26c433494c",
+  "name": "OctoLab #2104",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2104.png",
+  "edition": 2104,
+  "date": 1655630358547,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Violet"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "RareBreed"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "Holder"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sir"
+    },
+    {
+      "trait_type": "Head",
+      "value": "BaldHead"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Laser"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

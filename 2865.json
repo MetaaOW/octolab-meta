@@ -1,0 +1,15 @@
+{
+  "dna": "3888e19a963c822a8e1eb4392b389f8908012d97",
+  "name": "OctoLab #2865",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2865.png",
+  "edition": 2865,
+  "date": 1655630081847,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "CoolKing"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

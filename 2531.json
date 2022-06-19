@@ -1,0 +1,15 @@
+{
+  "dna": "a2687949f8d8512e26580fec63054e557b696881",
+  "name": "OctoLab #2531",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2531.png",
+  "edition": 2531,
+  "date": 1655630080742,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Marge"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

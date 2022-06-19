@@ -1,0 +1,15 @@
+{
+  "dna": "242a5aee5da9e9b607c06eb7971a34904a323d75",
+  "name": "OctoLab #2529",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2529.png",
+  "edition": 2529,
+  "date": 1655630082650,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Galactus"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

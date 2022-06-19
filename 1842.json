@@ -1,0 +1,15 @@
+{
+  "dna": "e35a6e41d815364b9f5d341b1004a339b4d140ad",
+  "name": "OctoLab #1842",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1842.png",
+  "edition": 1842,
+  "date": 1655630084526,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Homer"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

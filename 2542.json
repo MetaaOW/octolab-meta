@@ -1,0 +1,15 @@
+{
+  "dna": "acee95a0ae23998d4496e82608be0393632445f9",
+  "name": "OctoLab #2542",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2542.png",
+  "edition": 2542,
+  "date": 1655630086510,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Rick"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

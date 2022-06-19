@@ -1,0 +1,15 @@
+{
+  "dna": "8b594e3507f9bc04891987772076bc8c26c35356",
+  "name": "OctoLab #483",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/483.png",
+  "edition": 483,
+  "date": 1655630079971,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Nightmare"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

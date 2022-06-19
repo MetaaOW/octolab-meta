@@ -1,0 +1,15 @@
+{
+  "dna": "301b428c06eab9e3eafd1ea500e537752fafb27d",
+  "name": "OctoLab #2848",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2848.png",
+  "edition": 2848,
+  "date": 1655630085982,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Cactus"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

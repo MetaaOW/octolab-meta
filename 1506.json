@@ -1,0 +1,15 @@
+{
+  "dna": "065544ed46d702338e6cee0838e34a6f92decb89",
+  "name": "OctoLab #1506",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1506.png",
+  "edition": 1506,
+  "date": 1655630083000,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "TinkyWinky"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

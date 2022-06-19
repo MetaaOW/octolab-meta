@@ -1,0 +1,15 @@
+{
+  "dna": "6f3d3bee09a8bb62448a46e50482c358b47121b1",
+  "name": "OctoLab #2502",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2502.png",
+  "edition": 2502,
+  "date": 1655630083561,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Universe"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

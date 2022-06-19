@@ -1,0 +1,15 @@
+{
+  "dna": "b63daa51b96dde0a215cd17c5ffd308b55f79b79",
+  "name": "OctoLab #835",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/835.png",
+  "edition": 835,
+  "date": 1655630086667,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Nyan"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

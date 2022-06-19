@@ -1,0 +1,15 @@
+{
+  "dna": "332ad308398ab090cc97015f147c43948c328ca2",
+  "name": "OctoLab #1648",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1648.png",
+  "edition": 1648,
+  "date": 1655630085035,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Lucky"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

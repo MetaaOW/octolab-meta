@@ -1,0 +1,15 @@
+{
+  "dna": "42982f15f3c85f7f68e55c80f2139c77b4caa35e",
+  "name": "OctoLab #604",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/604.png",
+  "edition": 604,
+  "date": 1655630084688,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Exotic"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

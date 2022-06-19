@@ -1,0 +1,15 @@
+{
+  "dna": "c619a92b15e5309e1881a856252102896c7dc0bf",
+  "name": "OctoLab #2533",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2533.png",
+  "edition": 2533,
+  "date": 1655630085590,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "OCPD"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

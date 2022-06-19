@@ -1,0 +1,15 @@
+{
+  "dna": "9d5b62a1ebe6bc41e39c5d1d1e384973ec368091",
+  "name": "OctoLab #2309",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2309.png",
+  "edition": 2309,
+  "date": 1655630083356,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Dracula"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

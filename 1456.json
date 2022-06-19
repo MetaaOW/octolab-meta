@@ -1,0 +1,15 @@
+{
+  "dna": "2071b291ce852eba0a9e2330b28b5df08ac676ac",
+  "name": "OctoLab #1456",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1456.png",
+  "edition": 1456,
+  "date": 1655630087025,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "TV"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "dna": "91aef41221264c412a3b73df7f41879f769bcf96",
+  "name": "OctoLab #1624",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1624.png",
+  "edition": 1624,
+  "date": 1655630082841,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Dipper"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

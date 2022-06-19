@@ -1,0 +1,15 @@
+{
+  "dna": "5cab9990ee0614a8cdca71f1019411a0894a41aa",
+  "name": "OctoLab #1601",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1601.png",
+  "edition": 1601,
+  "date": 1655630087565,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Skeleton"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

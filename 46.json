@@ -1,0 +1,15 @@
+{
+  "dna": "e0a36b86aa210ef5020a63c824e68b4c4540194f",
+  "name": "OctoLab #46",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/46.png",
+  "edition": 46,
+  "date": 1655630086154,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Ghost"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

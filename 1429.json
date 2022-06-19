@@ -1,0 +1,15 @@
+{
+  "dna": "b4b1914a39cbb774c2e24f9474b281c0dab80eb6",
+  "name": "OctoLab #1429",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1429.png",
+  "edition": 1429,
+  "date": 1655630084368,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Wizard"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

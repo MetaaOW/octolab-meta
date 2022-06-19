@@ -1,0 +1,15 @@
+{
+  "dna": "c9eed8ad40d593f31ce70f269c11f3e99549e617",
+  "name": "OctoLab #2477",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/2477.png",
+  "edition": 2477,
+  "date": 1655630086318,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Goblin"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

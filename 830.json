@@ -1,0 +1,15 @@
+{
+  "dna": "394ecfe10752580d9117de641b59c002c323c138",
+  "name": "OctoLab #830",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/830.png",
+  "edition": 830,
+  "date": 1655630083726,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "CoolCat"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

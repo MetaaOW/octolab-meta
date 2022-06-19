@@ -1,0 +1,15 @@
+{
+  "dna": "34b9c19942641e7f1a51dc0964947512b247e710",
+  "name": "OctoLab #1058",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1058.png",
+  "edition": 1058,
+  "date": 1655630087375,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Mechanism"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

@@ -1,0 +1,15 @@
+{
+  "dna": "92949336fde035f1378ed627f2bab8b014efa006",
+  "name": "OctoLab #1822",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1822.png",
+  "edition": 1822,
+  "date": 1655630087182,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Octochu"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}

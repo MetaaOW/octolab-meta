@@ -1,0 +1,15 @@
+{
+  "dna": "c60a3f1c4cba13fd0751ff816f4b93b9ce158f91",
+  "name": "OctoLab #1530",
+  "description": "Made with love",
+  "image": "https://ipfs.io/ipfs/QmTuF8MyucVP6FWXVyA7SpSGsTSWp4nWHsy567Sc5WEziP/1530.png",
+  "edition": 1530,
+  "date": 1655630083173,
+  "attributes": [
+    {
+      "trait_type": "Legendary",
+      "value": "Kong"
+    }
+  ],
+  "compiler": "OctoLab Engine"
+}
